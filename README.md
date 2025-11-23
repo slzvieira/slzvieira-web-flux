@@ -1,4 +1,19 @@
-# Getting Started
+# SLZ Vieira Web Flux
+Demo project for Spring Web Flux
+
+### Generated with Spring Initializr (https://start.spring.io/)
+
+* Project: Maven
+* Language: Java
+* Spring Boot: 3.5.8
+* Project Metadata
+  * Group: com.slzvieira.study
+  * Artifact: slzvieira-web-flux
+  * Packaging: jar
+  * Java: 17
+* Initial dependencies:
+  * Spring Web
+  * Lombok
 
 ### Reference Documentation
 For further reference, please consider the following sections:
